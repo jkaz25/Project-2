@@ -7,3 +7,6 @@ The program uses argparse for user input and performs the following primary oper
 2) finding all entries on a specific date
 3) Finding all bugs considered to be repeatable and blockers
 4) Drop duplicate entries based upon 'TestCase', 'ExpectedResult', and 'ActualResult' entries
+
+There are 2 implementations for this project, one using mysql.connector/MySQL and a second implementation using pymongo/MongoDB. Both implementations yield identical results and are listed under the 
+code files.
