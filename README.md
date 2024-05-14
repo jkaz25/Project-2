@@ -1,4 +1,4 @@
-# PQA Replacement Script
+# QA Replacement Script
 This project is meant to emulate data management for QA in media entertainment. The project uses multiple Python frameworks including Pandas, argparse, and mysql connector with a MySQL local instance.
 This Python script is used to emulate QA testing by performing SQL queries on data entries through the use of MySQL server,
 and uses the Pandas module for data manipulation
